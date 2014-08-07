@@ -13,7 +13,7 @@ Getting started
    cd path_to_opauth/Strategy
    git clone git://github.com/dgrabla/opauth-odnoklassniki.git Odnoklassniki
    ```
-2. Create Odnoklassniki application at http://vk.com/developers.php
+2. Create Odnoklassniki application
 
 3. Configure Opauth-Odnoklassniki strategy with `client_id`, `client_secret`, `client_public`.
 
