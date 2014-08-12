@@ -65,7 +65,7 @@ class OdnoklassnikiStrategy extends OpauthStrategy
                     ),
                     'credentials' => array(
                         'token' => $results['access_token'],
-                        'expires' => date('c', time() + $results['expires'])
+                        'refresh_token' => $results['refresh_token']
                     ),
                     'raw' => $user
                 );
