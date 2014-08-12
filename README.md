@@ -10,8 +10,8 @@ Getting started
 
 1. Install Opauth-Odnoklassniki:
    ```bash
-   cd path_to_opauth/Strategy
-   git clone git://github.com/dgrabla/opauth-odnoklassniki.git Odnoklassniki
+   cd path_to_opauth/Strategy 
+   git clone git@github.com:KuzminDima/opauth-odnoklassniki.git Odnoklassniki
    ```
 2. Create Odnoklassniki application
 
